@@ -22,6 +22,7 @@ class HomeScreen extends StatelessWidget {
           Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             children: [
+              Gap(30),
               Container(
                 child: CircleAvatar(
                   backgroundColor: Colors.white,
