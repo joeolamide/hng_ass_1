@@ -6,7 +6,7 @@ import 'package:url_launcher/url_launcher.dart';
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
   _launchURLBrowser() async {
-    var url = Uri.parse("https://github.com/joeolamide");
+    var url = Uri.parse("https://github.com/joeolamide/hng_ass_1.git");
     if (await canLaunchUrl(url)) {
       await launchUrl(url);
     } else {
