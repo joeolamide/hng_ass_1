@@ -13,5 +13,5 @@ url_launcher: I used this plugin to connect my git icon and the text stating "Op
 Gap: it function is to create space between the wigets used such as Circle-avatar, Rows, Container and column.
 
 I made use of Andriod studio to write/edit my codes.
-appetize link: https://appetize.io/apps
+appetize link: https://appetize.io/app/wzy6gbh6xy6sohogsk57lznhgq?device=pixel4&osVersion=12.0&scale=75&proxy=intercept
 
